@@ -45,7 +45,7 @@ void main() {
 		else if (distance + circle1.r == circle2.r || distance + circle2.r == circle1.r) {
 			printf("circles touches inside");
 		}
-		else { //think about it (distance <= circle1.r || distance <= circle2.r
+		else { //think about it (distance <= circle1.r || distance <= circle2.r)
 			printf("circles intersects inside");
 		}
 }
