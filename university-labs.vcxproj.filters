@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\circles.c">
+    <ClCompile Include="circles.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
